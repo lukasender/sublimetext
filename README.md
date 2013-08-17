@@ -13,3 +13,7 @@ My SublimeText 2 setup
 - Tag
 - HTML5
 - SublimeLinter
+
+# Other things
+I've set the default font to 'Ubuntu Mono' (http://font.ubuntu.com/).
+Make sure to install the font or change `"font_face"` in `Preferences.sublime-settings`
