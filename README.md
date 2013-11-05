@@ -10,6 +10,7 @@ My SublimeText 2 setup
 - GitGutter
 - HTML5
 - Nettuts+ Fetch
+- Pretty JSON
 - SideBarEnhancements
 - SublimeCodeIntel (https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 - SublimeLinter
