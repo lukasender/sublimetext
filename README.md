@@ -6,17 +6,17 @@ My SublimeText 2 setup
 # Installed packages
 
 - Package Control (https://sublime.wbond.net/)
-- All Autocomplete
+//- All Autocomplete
 - GitGutter
-- HTML5
-- Nettuts+ Fetch
+//- HTML5
+//- Nettuts+ Fetch
 - Pretty JSON
 - SideBarEnhancements
 - SublimeCodeIntel (https://github.com/SublimeCodeIntel/SublimeCodeIntel)
-- SublimeLinter
-- SublimeREPL
-- SublimeRope
-- Tag
+//- SublimeLinter
+//- SublimeREPL
+//- SublimeRope
+//- Tag
 
 # Other things
 I've set the default font to 'Ubuntu Mono' (http://font.ubuntu.com/).

@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["super+alt+right"],
+        "keys": ["super+alt+l"],
         "command": "set_layout",
         "args":
         {
@@ -10,7 +10,7 @@
         }
     },
     {
-        "keys": ["super+alt+left"],
+        "keys": ["super+alt+h"],
         "command": "set_layout",
         "args":
         {
@@ -18,5 +18,16 @@
             "rows": [0.0, 1.0],
             "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
         }
-    }
+    },
+    {
+        "keys": ["super+alt+k"],
+        "command": "set_layout",
+        "args":
+        {
+            "cols": [0.5, 0.5, 1.0],
+            "rows": [0.0, 1.0],
+            "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+        }
+    },
+    { "keys": ["ctrl+comma"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
 ]
