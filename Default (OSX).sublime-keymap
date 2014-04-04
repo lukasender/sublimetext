@@ -1,6 +1,6 @@
 [
     {
-        "keys": ["super+alt+l"],
+        "keys": ["super+alt+h"],
         "command": "set_layout",
         "args":
         {
@@ -10,7 +10,7 @@
         }
     },
     {
-        "keys": ["super+alt+h"],
+        "keys": ["super+alt+l"],
         "command": "set_layout",
         "args":
         {
