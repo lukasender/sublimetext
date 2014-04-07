@@ -24,10 +24,11 @@
         "command": "set_layout",
         "args":
         {
-            "cols": [0.5, 0.5, 1.0],
+            "cols": [0.0, 0.5, 1.0],
             "rows": [0.0, 1.0],
             "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
         }
     },
-    { "keys": ["ctrl+comma"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+    { "keys": ["ctrl+comma"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["super+shift+c"], "command": "toggle_comment", "args": { "block": false } },
 ]
