@@ -1,0 +1,11 @@
+{
+    "message_stay": true,
+    "disable": [
+        "C0103",    // invalid class attribute
+        "C0111",    // missing module docstring
+        "F0401",    // cannot import
+        "R0201",    // can be a function
+        "R0903",    // too few public methods
+        "W0232"     // no __init__
+        ]
+}

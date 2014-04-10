@@ -1,7 +1,7 @@
 sublimetext
 ===========
 
-My SublimeText 2 setup
+My SublimeText 3 setup
 
 # Installed packages
 
@@ -13,3 +13,4 @@ My SublimeText 2 setup
 - Pylinter (requires pylint to be installed: ``pip install pylint``)
 - SideBarEnhancements
 - SublimeCodeIntel (https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- Theme - Spacegrey
